@@ -1,6 +1,6 @@
 Package: SPsimSeq
 Title: Semi-parametric simulation tool for bulk and single-cell RNA sequencing data
-Version: 1.5.1
+Version: 1.6.0
 Authors@R: 
     c(person(given = "Alemu Takele",
            family = "Assefa",
